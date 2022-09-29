@@ -1,0 +1,41 @@
+ 
+ 
+ body{
+    background-color: red;
+ }
+ b{
+    color: white;
+ }
+ p{
+    color: bisque;
+ }
+
+a:hover{
+   color: black;
+}
+
+li{
+   color: blanchedalmond;
+}
+
+.dust{
+   background-color: red;
+   background-image: url(images/1.jpeg);
+   background-size: cover;
+   background-position: center;
+   background-blend-mode: multiply;
+   width: 500px ;
+   height: 300px;
+   
+}
+img{
+   width: 400px;
+   height: 200px;
+   padding: 5px;
+   
+}
+.text{
+   color: white;
+}
+
+   
